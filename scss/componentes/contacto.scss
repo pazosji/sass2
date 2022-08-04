@@ -1,0 +1,16 @@
+*{margin: 0;
+    padding: o;
+    box-sizing: border-box;}
+    
+    @import "base/variables";
+    @import "base/listas";
+    @import "base/mixin";
+    @import "base/maps";
+    @import "base/extend";
+    @import "base/condicionales";
+
+    
+    .mainContacto{@include .mainContacto}
+
+
+
